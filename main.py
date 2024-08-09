@@ -1,5 +1,5 @@
 # Importing the Required Moduel
-# Codewithcurious.com
+# Code by Karan7773
 import cv2 as cv
 
 # Reading the image
